@@ -1,9 +1,8 @@
 <div align="center">
   <h1>Hi 👋, I'm Amanuel Fisseha</h1>
   <p>
-  <br>
-    Backend developer passionate about scalable web apps, DevOps, and AI agents/automation tools.<br>
-    Building tools to solve real problems in education and beyond.
+    Software Engineer | Backend-focused developer (Node.js, Django, Python)  
+    Building scalable apps & learning AI agents | Addis Ababa, Ethiopia
   </p>
 
   <p>
@@ -13,32 +12,36 @@
     <a href="mailto:amanuelfisseha2@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
-    <a href="https://github.com/Zeckaris">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
   </p>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Zeckaris&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeckaris&theme=radical" alt="Streak Stats" width="400"/>
 </div>
 
 ## 🛠️ Skills & Technologies
-- **Backend**: Node.js (Express), Django, Python, REST APIs  
-- **Frontend**: React, TypeScript, Chakra UI, Ant Design, Vite  
-- **Databases**: PostgreSQL, MongoDB, Redis  
-- **Tools**: Git/GitHub, Linux, Docker (learning), Deployment (Render, Vercel)  
-- **Other**: Problem-Solving (Competitive Programming), AI/ML interest  
+
+## Skills
+
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 
 ## 🚀 Featured Projects
-- **[CareCraft](https://github.com/Zeckaris/care-craft)** — Full-stack school management platform (deployed: https://care-craft.onrender.com/)  
-  Secure admin tools, teacher-parent chat, action plans, Redis notifications.  
-- **[GameHub](https://github.com/Zeckaris/game-hub)** — Responsive game discovery app with third-party API<a href="https://game-seller.vercel.app/" target="_blank" rel="noopener noreferrer nofollow"></a>  
-- **[Competitive Programming](https://github.com/Zeckaris/Competitive-Programming)** — 100+ LeetCode solutions in Python  
-- More in pinned repos below...
+- **CareCraft** – Full-stack school management platform  
+  [Live Demo](https://care-craft.onrender.com/) | [Repo](https://github.com/Zeckaris/care-craft)  
+  Secure admin tools, teacher-parent chats, Redis notifications.
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeckaris&layout=compact&theme=radical" alt="Top Languages"/>
-</div>
+- **GameHub** – Game discovery app  
+  [Live Demo](https://game-seller.vercel.app/) | [Repo](https://github.com/Zeckaris/game-hub)  
+  Responsive UI with third-party API integration.
 
-Thanks for visiting! Let's connect if you're working on interesting projects. 🚀
+- **Competitive Programming** – Algorithm solutions  
+  [Repo](https://github.com/Zeckaris/Competitive-Programming)  
+  100+ LeetCode-style problems solved in Python.
+
+Thanks for visiting! Open to collaborations on web, DevOps, or AI projects. 
