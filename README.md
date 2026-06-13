@@ -1,8 +1,14 @@
 <div align="center">
-  <h1>Hi 👋, I'm Amanuel Fisseha</h1>
+  <h1>👋 Hi, I'm Amanuel Fisseha</h1>
+  
   <p>
-    Software Engineer | Backend-focused developer (Node.js, Django, Python)  
-    Building scalable apps & learning AI agents | Addis Ababa, Ethiopia
+    <strong>Software Engineer | Backend Developer | AI Agent Enthusiast</strong>
+  </p>
+  
+  <p>
+    Building scalable backend systems with Node.js, Django, and Python.<br>
+    Currently diving deep into <strong>LangChain</strong> and <strong>LangGraph</strong> for building AI agents and RAG systems.<br>
+    📍 Addis Ababa, Ethiopia
   </p>
 
   <p>
@@ -12,36 +18,95 @@
     <a href="mailto:amanuelfisseha2@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
+    <a href="https://github.com/Zeckaris">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
   </p>
 </div>
 
-## 🛠️ Skills & Technologies
+---
 
-## Skills
+## 🛠️ Tech Stack
 
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+### Backend & Core
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### AI & Agent Development
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Astra DB](https://img.shields.io/badge/Astra%20DB-20232A?style=for-the-badge&logo=datastax&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+---
 
 ## 🚀 Featured Projects
-- **CareCraft** – Full-stack school management platform  
-  [Live Demo](https://care-craft.onrender.com/) | [Repo](https://github.com/Zeckaris/care-craft)  
-  Secure admin tools, teacher-parent chats, Redis notifications.
 
-- **GameHub** – Game discovery app  
-  [Live Demo](https://game-seller.vercel.app/) | [Repo](https://github.com/Zeckaris/game-hub)  
-  Responsive UI with third-party API integration.
+### 📚 PDF Query Bot (RAG System)
+**LangChain + Astra DB + Google Gemini + Streamlit**
 
-- **Competitive Programming** – Algorithm solutions  
-  [Repo](https://github.com/Zeckaris/Competitive-Programming)  
-  100+ LeetCode-style problems solved in Python.
+A retrieval-augmented generation chatbot that answers questions about a 215-page research paper using vector search and LLM.
 
-Thanks for visiting! Open to collaborations on web, DevOps, or AI projects. 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-🤗%20Hugging%20Face-yellow)](https://huggingface.co/spaces/amanfisseha/PDF-Bot)
+[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat&logo=github)](https://github.com/Zeckaris/RAG-based-pdf-bot)
+
+### 🏥 CareCraft
+**Django + PostgreSQL + Redis**
+
+Full-stack school management platform with secure admin tools, teacher-parent chat system, and Redis-powered notifications.
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Render-46E3B7?style=flat&logo=render)](https://care-craft.onrender.com/)
+[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat&logo=github)](https://github.com/Zeckaris/care-craft)
+
+### 🎮 GameHub
+**React + TypeScript + Vercel**
+
+Game discovery app with responsive UI and third-party API integration.
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-000000?style=flat&logo=vercel)](https://game-seller.vercel.app/)
+[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat&logo=github)](https://github.com/Zeckaris/game-hub)
+
+### 💻 Competitive Programming
+**Python | Algorithms | 100+ Solutions**
+
+Collection of algorithm solutions from LeetCode-style problems.
+
+[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat&logo=github)](https://github.com/Zeckaris/Competitive-Programming)
+
+---
+
+## 📫 Let's Connect
+
+I'm open to collaborations on:
+- Backend development
+- AI agent applications (LangChain/LangGraph)
+- RAG systems
+- Full-stack web applications
+
+📧 **Email**: amanuelfisseha2@gmail.com  
+🔗 **LinkedIn**: [linkedin.com/in/amanfisseha](https://www.linkedin.com/in/amanfisseha)
+
+---
+
+<div align="center">
+  <i>"Building scalable systems and intelligent agents — one commit at a time."</i>
+</div>
