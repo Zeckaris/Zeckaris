@@ -67,8 +67,13 @@ An agentic fitness coach built with production-grade engineering: a LangGraph Re
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=flat&logo=streamlit)](https://fitness-coach-2bt5hbljzaexowzvfwfiuv.streamlit.app/)
 [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat&logo=github)](https://github.com/Zeckaris/Fitness-Coach)
  
+### 🛍️ TheRevival
+**TypeScript + Supabase (PostgreSQL) — Deployed & in active use by an Addis Ababa client**
+ 
+A consignment shop management platform built for a real client, handling the full item lifecycle from intake to sale to consignor payout. Features a consignor portal with balance tracking, a BOGO/sale-campaign engine with automated price and payout calculations, POS checkout, inventory aging and cycle/forfeiture automation, staff role management, and bilingual automated emails. Delivered and actively being used.
+ 
 ### 🏥 CareCraft
-**Django + PostgreSQL + Redis**
+**Nodejs + PostgreSQL + Redis + React**
  
 Full-stack school management platform with secure admin tools, teacher-parent chat system, and Redis-powered notifications.
  
